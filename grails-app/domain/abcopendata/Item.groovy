@@ -12,7 +12,9 @@ class Item {
 	boolean person
 	boolean datasource
 	int votes
-	Set<Tag> tags
+	
+	boolean show
+	
 	
     static constraints = {
 		name(blank:false)

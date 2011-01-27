@@ -17,7 +17,7 @@
 		Link al Tag d'exemple
 		
 		<h2>Altres</h2>
-		Link a la pàgina d'introduir dades
+		<g:link controller="send">Link a la pàgina d'introduir dades</g:link>
 		Link a la pàgina d'administració
     </body>
 </html>

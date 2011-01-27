@@ -7,7 +7,6 @@ class Tag {
 
 	ObjectId id
 	String name
-	Set<Item> items
 	
     static constraints = {
 		name(blank:false)
